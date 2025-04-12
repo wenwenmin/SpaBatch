@@ -1,2 +1,2 @@
 # SpaBatch
-![image](https://github.com/wenwenmin/SpatialCVGAE/blob/main/SpatialCVGAE_Overview.jpg)
+![image](https://github.com/wenwenmin/SpaBatch/blob/main/F1.jpg)
