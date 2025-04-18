@@ -10,7 +10,7 @@ All data used in this work are available at: https://zenodo.org/uploads/15233992
 ## Installations
 - NVIDIA GPU (a single Nvidia GeForce RTX 4090)
 - `pip install -r requiremnt.txt`
--   
+  
 ## Running demo
 You can test the DLPFC dataset by running the Run_DLPFC_151507.ipynb file.
 
