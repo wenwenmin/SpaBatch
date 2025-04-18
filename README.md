@@ -12,7 +12,7 @@ All data used in this work are available at: https://zenodo.org/uploads/15233992
 - `pip install -r requiremnt.txt`
   
 ## Running demo
-You can test the DLPFC dataset by running the Run_DLPFC_151507.ipynb file.
+We provide an example to test SpaBatch on the DLPFC dataset. You can test the DLPFC dataset by running the Run_DLPFC_151507.ipynb file.
 
 ## Contact details
 If you have any questions, please contact xueshuailin@163.com and minwenwen@ynu.edu.cn.
