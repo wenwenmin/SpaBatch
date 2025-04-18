@@ -15,7 +15,7 @@ All data used in this work are available at: https://zenodo.org/uploads/15233992
 We provide an example to test SpaBatch on the DLPFC dataset. You can test the DLPFC dataset by running the Run_DLPFC_151507.ipynb file.
 
 ## Contact details
-If you have any questions, please contact xueshuailin@163.com and minwenwen@ynu.edu.cn.
+If you have any questions, please contact niujinyun@aliyun.com and minwenwen@ynu.edu.cn.
 
 ## Article link
 https://www.biorxiv.org/content/10.1101/2025.03.24.645150v1
