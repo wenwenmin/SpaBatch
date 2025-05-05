@@ -1,1 +1,1 @@
-
+Among all the comparison methods, SEDR, STAligner, STG3Net, and SpaGIC can be applied to all datasets. DeepST requires the corresponding histological image as input, and therefore can only be run on the DLPFC, MBA-MBP, and MOE datasets, as the other datasets do not provide histological images. STich3D requires matched scRNA-seq data from the same tissue section as the spatial transcriptomics data, so we only applied it to the DLPFC dataset.
