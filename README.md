@@ -1,5 +1,5 @@
 # SpaBatch
-![image](https://github.com/wenwenmin/SpatialCVGAE/blob/main/SpatialCVGAE_Overview.jpg)
+![image](https://github.com/wenwenmin/SpaBatch/blob/main/F1.pdf)
 
 ## Overview
 With the rapid accumulation of spatial transcriptomics (ST) data across diverse tissues, individuals, and technological platforms, there is an urgent need for a robust and reliable multi-slice integration framework to enable three-dimensional (3D) spatial domain identification. However, existing methods largely focus on two-dimensional (2D) spatial domain identification within individual slices and fail to adequately account for inter-slice spatial correlations and batch effect correction, thereby limiting the accuracy of cross-slice 3D spatial domain identification.
