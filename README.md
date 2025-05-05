@@ -12,7 +12,7 @@ All data used in this work are available at: https://zenodo.org/uploads/15233992
 - `pip install -r requiremnt.txt`
   
 ## Running demo
-We provide an example to test SpaBatch on the DLPFC dataset. You can test the DLPFC dataset by running the Run_DLPFC_151507.ipynb file.
+We provide demos for all datasets as references. The Tutorials section includes the running results of SpaBatch on all datasets used in this study, along with the code for downstream analysis. The results of all baseline methods can be found in the Baselines folder.
 
 ## Contact details
 If you have any questions, please contact niujinyun@aliyun.com and minwenwen@ynu.edu.cn.
