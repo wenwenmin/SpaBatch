@@ -15,7 +15,7 @@ All data used in this work are available at: https://zenodo.org/uploads/15233992
 - `pip install -r requiremnt.txt`
   
 ## Running demo
-We provide demos for all datasets as references. The Tutorials folder (https://github.com/wenwenmin/SpaBatch/tree/main/Tutorials) includes the running results of SpaBatch on all datasets used in this study, along with the code for downstream analysis. The results of all baseline methods can be found in the Baselines folders (https://github.com/wenwenmin/SpaBatch/tree/main/Baselines).
+We provide demos for all datasets as references. The [Tutorials folder] (https://github.com/wenwenmin/SpaBatch/tree/main/Tutorials) includes the running results of SpaBatch on all datasets used in this study, along with the code for downstream analysis. The results of all baseline methods can be found in the [Baselines folders] (https://github.com/wenwenmin/SpaBatch/tree/main/Baselines).
 
 ## Contact details
 If you have any questions, please contact niujinyun@aliyun.com and minwenwen@ynu.edu.cn.
