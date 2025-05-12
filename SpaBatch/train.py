@@ -187,7 +187,7 @@ class train_model():
 
                 if epoch % self.tri_stride == 0:
                     tri_z, _ = self.process()
-                    self.adata.obsm['Tri_SEDR'] = tri_z
+                    self.adata.obsm['Tri_SpaBatch'] = tri_z
 
                     section_ids = np.array(self.adata.obs['batch_name'].unique())
                     mnn_dict = create_dictionary_mnn_c(self.adata, use_rep='Tri_SEDR', batch_name='batch_name', k=knn_neigh,
