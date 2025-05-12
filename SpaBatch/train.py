@@ -190,7 +190,7 @@ class train_model():
                     self.adata.obsm['Tri_SpaBatch'] = tri_z
 
                     section_ids = np.array(self.adata.obs['batch_name'].unique())
-                    mnn_dict = create_dictionary_mnn_c(self.adata, use_rep='Tri_SEDR', batch_name='batch_name', k=knn_neigh,
+                    mnn_dict = create_dictionary_mnn_c(self.adata, use_rep='Tri_SpaBatch', batch_name='batch_name', k=knn_neigh,
                                                      iter_comb=iter_comb, verbose=0)
                     anchor_ind = []
                     positive_ind = []
