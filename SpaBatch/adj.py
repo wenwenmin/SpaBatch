@@ -271,7 +271,6 @@ def main(adata, adj_cons_by, distType, k_cutoff, rad_cutoff):
 
 
 
-#STAGATE的邻接矩阵构造方式
 from torch_geometric.data import Data
 
 def Transfer_pytorch_Data(adata, key_add):
