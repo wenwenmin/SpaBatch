@@ -168,7 +168,7 @@ class train_model():
             self.model.cluster_layer.data = torch.tensor(cluster_centers_).to(self.device)
 
         with tqdm(total=int(self.pre_epochs),
-                  desc="DeepST_main trains a final model",
+                  desc="SpaBatch_main trains a final model",
                   bar_format="{l_bar}{bar} [ time left: {remaining} ]") as pbar:
             for epoch in range(self.epochs):
                 if epoch % self.q_stride == 0:
