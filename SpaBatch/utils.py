@@ -183,34 +183,10 @@ def fix_seed(seed):
     os.environ['CUBLAS_WORKSPACE_CONFIG'] = ':4096:8'
 
 
-import matplotlib.pyplot as plt
-import os
 
 
-def plot_loss(epochs, losses, losses_dir, datasetname):
-    plt.cla()  # 清空当前图形
 
-    # 设置图形的字体和大小
-    plt.xlabel("Epoch", fontdict={'family': 'Times New Roman', 'size': 18})
-    plt.ylabel("Total Loss", fontdict={'family': 'Times New Roman', 'size': 18})
 
-    # 绘制损失曲线
-    plt.plot(epochs, losses, marker='o', linestyle='-', color='b')  # 添加 marker 和颜色
-
-    # 添加标题
-    plt.title(f'Loss Curve for {datasetname}', fontdict={'family': 'Times New Roman', 'size': 20})
-
-    # 设置 x 轴和 y 轴的范围（可选）
-    plt.xlim(min(epochs), max(epochs))  # x 轴根据 epoch 动态设置范围
-    plt.ylim(min(losses) * 0.95, 1000)  # y 轴根据损失值动态设置范围
-
-    plt.grid()  # 添加网格
-
-    # 保存图像到指定目录
-    # os.makedirs(losses_dir, exist_ok=True)  # 如果目录不存在，则创建
-    # plt.savefig(os.path.join(losses_dir, f'loss_curve_{datasetname}.png'), dpi=300, bbox_inches='tight')  # 保存为 PNG 文件
-
-    plt.show()  # 显示图形
 
 
 
