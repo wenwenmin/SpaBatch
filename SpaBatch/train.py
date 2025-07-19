@@ -68,7 +68,7 @@ class train_model():
         #epoch_list = []
         #loss_list = []
         with tqdm(total=int(self.pre_epochs),
-                    desc="DeepST_main trains an initial model",
+                    desc="SpaBatch_main trains an initial model",
                         bar_format="{l_bar}{bar} [ time left: {remaining} ]") as pbar:
             for epoch in range(self.pre_epochs):
                 # inputs_corr = masking_noise(self.data, self.corrupt) #添加噪声，和data同形的随机噪声
