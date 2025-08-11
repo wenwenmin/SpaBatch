@@ -1,0 +1,14 @@
+###
+File Description:
+DLPFC_151507: Refers to the integration of four slices (Donor 1: 151507–151510) from the DLPFC dataset.
+DLPFC_151669: Refers to the integration of four slices (Donor 2: 151669–151672) from the DLPFC dataset.
+DLPFC_151673: Refers to the integration of four slices (Donor 3: 151673–151676) from the DLPFC dataset.
+MBA_MBP: Refers to the integration of sagittal mouse anterior and posterior slice data.
+MOB: Refers to the integration of 35 coronal mouse brain slice datasets.
+MOE: Refers to the integration of E9.5-stage mouse embryo slice data sequenced by Stereo-seq technology.
+BC_H: Refers to the integration of three slice datasets from Group H of the HER2+ human breast cancer dataset.
+HH1 & HH2: Represent the integration of human heart datasets at stages PCW 4.5-5 and PCW 6.5, respectively.
+MBA_MBP_Coronal: Involves integrating a morphologically distinct coronal slice with existing sagittal mouse anterior-posterior data (MBA_MBP)
+to validate SpaBatch's performance on partially overlapping tissue sections (<50% overlap).
+
+We apologize for any inconvenience caused by our shorthand naming conventions for the datasets and appreciate your understanding.
