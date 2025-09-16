@@ -20,15 +20,19 @@ We provide demos for all datasets as references. The [Tutorials folders](https:/
 ## Contact details
 If you have any questions, please contact niujinyun@aliyun.com and minwenwen@ynu.edu.cn.
 
-## Article link
+## Citing
 <p>The corresponding BiBTeX citation are given below:</p>
 <div class="highlight-none"><div class="highlight"><pre>
 @article{niu2025spabatch,
   title={SpaBatch: Batch Alignment of Spatial Transcriptomics Data using Graph Deep Learning},
   author={Niu, Jinyun and Min, Wenwen},
-  journal={bioRxiv},
-  pages={2025--03},
+  journal={Advanced Science},
+  pages={e09090 (1 of 27)},
   year={2025},
   publisher={Cold Spring Harbor Laboratory}
 }
 </pre></div>
+
+## Article link
+
+Free Download: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509090
