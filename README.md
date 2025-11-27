@@ -23,13 +23,15 @@ If you have any questions, please contact niujinyun@aliyun.com and minwenwen@ynu
 ## Citing
 <p>The corresponding BiBTeX citation are given below:</p>
 <div class="highlight-none"><div class="highlight"><pre>
-@article{niu2025spabatch,
-  title={SpaBatch: Batch Alignment of Spatial Transcriptomics Data using Graph Deep Learning},
-  author={Niu, Jinyun and Min, Wenwen},
-  journal={Advanced Science},
-  pages={e09090 (1 of 27)},
-  year={2025},
-  publisher={Cold Spring Harbor Laboratory}
+@article{niu2025SpaBatch,
+author = {Niu, Jinyun and Fang, Donghai and Chen, Jinyu and Xiong, Yi and Liu, Juan and Min, Wenwen},
+title = {SpaBatch: Deep Learning-Based Cross-Slice Integration and 3D Spatial Domain Identification in Spatial Transcriptomics},
+journal = {Advanced Science},
+volume = {12},
+number = {44},
+pages = {e09090},
+doi = {https://doi.org/10.1002/advs.202509090},
+year = {2025}
 }
 </pre></div>
 
